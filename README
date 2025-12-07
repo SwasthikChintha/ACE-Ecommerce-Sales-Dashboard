@@ -1,0 +1,111 @@
+🌐 **ACE Ecommerce Sales Dashboard – Power BI Project**
+
+A fully interactive and data-driven **Sales Analytics Dashboard** built using **Microsoft Power BI**, designed for ACE Ecommerce to analyze key business metrics such as revenue, profit, quantity sold, customer trends, category performance, and state-wise distribution.
+
+This project demonstrates strong skills in **Data Analysis**, **Business Intelligence**, **Data Visualization**, and **Dashboard Design**.
+
+---
+
+# 📊 **Dashboard Overview**
+
+This dashboard provides a clear, visual, and comprehensive overview of ecommerce business performance.
+It includes KPIs and visualizations that help stakeholders make informed decisions.
+
+### ✅ **Key Performance Indicators (KPIs)**
+
+* **Total Sales Amount:** 438K
+* **Total Profit:** 37K
+* **Total Quantity Sold:** 5615
+* **Average Order Value (AOV):** 121K
+
+---
+
+# 📈 **Visuals Included**
+
+### 🗺️ **1. Sales Amount by State**
+
+A bar chart showing top-performing states such as Maharashtra, Madhya Pradesh, and more.
+
+### 🛒 **2. Quantity Sold by Category**
+
+A donut chart showing contribution of major categories like Clothing, Electronics, and Furniture.
+
+### 📅 **3. Monthly Profit Trend**
+
+A positive/negative bar chart showing profit fluctuations across all months.
+
+### 👤 **4. Sales Amount by Customer Name**
+
+Identifies top customers contributing to revenue.
+
+### 💳 **5. Quantity by Payment Mode**
+
+Breakdown of orders via COD, Credit Card, Debit Card, and UPI.
+
+### 🗂️ **6. Profit by Sub-Category**
+
+Highlights top sub-categories such as Printers, Bookcases, Saree, Accessories, and Tables.
+
+---
+
+# 🧩 **Project Files Included**
+
+| File Name                        | Description                              |
+| -------------------------------- | ---------------------------------------- |
+| **ACE_Ecommerce_Dashboard.pbix** | Power BI dashboard file                  |
+| **Dataset.xlsx / CSV**           | The raw dataset used for analysis        |
+| **Dashboard_Screenshot.png**     | High-resolution preview of the dashboard |
+| **README.md**                    | Documentation explaining the project     |
+
+---
+
+# 🛠️ **Technologies & Tools Used**
+
+* **Microsoft Power BI**
+* **Power Query**
+* **DAX (Data Analysis Expressions)**
+* **Excel / CSV Dataset**
+* **Data Modelling**
+* **Interactive Visual Filters & Slicers**
+
+---
+
+# 📥 **How to Use This Project**
+
+1. Download the `.pbix` file from this repository
+2. Open it using **Power BI Desktop**
+3. Explore the dashboard using slicers & filters
+4. Modify or update dataset if needed
+5. Use it for academic submissions, BI learning, or portfolio projects
+
+---
+
+# 🎯 **Business Insights Derived**
+
+* Clothing contributes **63%** of overall quantity
+* Maharashtra generates highest revenue
+* COD accounts for majority of orders
+* Profit fluctuates heavily between May–July
+* Printers category has the highest sub-category profit
+
+---
+
+# 📸 **Dashboard Preview**
+
+Screenshot.png
+Screenshot 2.png
+
+
+---
+
+# 🧑‍💻 **Created By**
+
+### **Swastik**
+
+B.Tech – Computer Science Engineering
+Power BI | Data Analysis | Dashboard Development
+
+---
+
+# ⭐ **If you find this helpful, consider giving the repository a star!**
+
